@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @GCarolyne
-- 🌱 I’m currently learning HTML, CSS, JavaScript, TypeScript
+- 🌱 I’m currently learning REACT, TYPESCRIPT, NODE.JS
 - 📫 How to reach me goliascarolyne@gmail.com
 
 - ⚡ Fun fact: I love art and travel. 
