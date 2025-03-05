@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @GCarolyne
-- 🌱 I’m currently learning REACT, TYPESCRIPT, NODE.JS
+- 🌱 I’m currently learning REACT, TYPESCRIPT, NODE.JS, EXPRESS, POSTGRESQL, TAILWIND.
 - 📫 How to reach me goliascarolyne@gmail.com
 
 - ⚡ Fun fact: I love to code,make art and travel. 
