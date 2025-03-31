@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Carolyne~! A passionate lifetime learner. 
+- 👋 Hi, I’m Carolyne~!
 - 🌱 Full-Stack Developer | JavaScript | TypeScript | React | Node.js | Express | PostgreSQL
 - 📫 How to reach me goliascarolyne@gmail.com
 
