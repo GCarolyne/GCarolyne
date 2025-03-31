@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @GCarolyne
-- 🌱 I’m currently learning REACT, TYPESCRIPT, NODE.JS, EXPRESS, POSTGRESQL, TAILWIND.
+- 👋 Hi, I’m Carolyne~! A passionate lifetime learner. 
+- 🌱 Full-Stack Developer | JavaScript | TypeScript | React | Node.js | Express | PostgreSQL
 - 📫 How to reach me goliascarolyne@gmail.com
 
-- ⚡ Fun fact: I love to code,make art and travel. 
+- ⚡ Fun fact: I love to code, make art and travel. 
 
 <!---
 GCarolyne/GCarolyne is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
