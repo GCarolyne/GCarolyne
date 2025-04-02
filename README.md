@@ -1,10 +1,15 @@
-- 👋 Hi, I’m Carolyne~!
-- 🌱 Full-Stack Developer | JavaScript | TypeScript | React | Node.js | Express | PostgreSQL
-- 📫 How to reach me goliascarolyne@gmail.com
+ 👋 Hi, I’m Carolyne~!
+ 🌱 I love faacing challenging problems and tackling them head on with the patience of made of gold. 
+ 🔍 Currently I am seeking job opportunities in full-stack development where I can use all my skills to bring the best to your company! 
+ 📫 How to reach me goliascarolyne@gmail.com
+ ⚡ Fun fact: I love to code, making art and traveling. 
 
-- ⚡ Fun fact: I love to code, make art and travel. 
-
-<!---
-GCarolyne/GCarolyne is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+</div>
