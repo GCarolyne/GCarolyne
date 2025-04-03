@@ -1,5 +1,5 @@
  👋 Hi, I’m Carolyne~!
- 🌱 I love faacing challenging problems and tackling them head on with the patience of made of gold. 
+ 🌱 I love faacing challenging problems and tackling them head on. 
  🔍 Currently I am seeking job opportunities in full-stack development where I can use all my skills to bring the best to your company! 
  📫 How to reach me goliascarolyne@gmail.com
  ⚡ Fun fact: I love to code, making art and traveling. 
