@@ -2,10 +2,10 @@
 
 ## About Me 💫
 
-- 🌱 I love facing challenging problems and tackling them head on
+- 🌱 I love facing challenging problems and tackling them head on.
 - 🔍 Currently seeking job opportunities in full-stack development where I can use all my skills to bring the best to your company!
 - 📫 Reach me at: **goliascarolyne@gmail.com**
-- ⚡ Fun fact: I love to code, make art and travel around the world
+- ⚡ Fun fact: I love to code, make art and travel / adventure.
 
 <div align="center">
   
