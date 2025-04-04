@@ -1,9 +1,8 @@
-# Hello World! I'm Carolyne 👋
+# Greetings! I am Carolyne 👋
+
 
 <div align="center">
-  
-  <!-- Replace this link with your actual GIF -->
-  ![Artist Turned Programmer](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif)
+  <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif">
   
   *Artist by heart, Developer by code* ✨
 
