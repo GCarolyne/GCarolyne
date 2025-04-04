@@ -45,8 +45,6 @@ My GitHub Stats 📊
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GCarolyne&layout=compact&theme=tokyonight" alt="Carolyne's Most Used Languages" />
 </div>
 <details>
-  <summary>More GitHub Stats</summary>
-  <img src="https://github-readme-stats.vercel.app/api?username=GCarolyne&show_icons=true&theme=radical" alt="Carolyne's GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=GCarolyne&theme=radical" alt="Carolyne's GitHub Streak" />
 </details>
 
