@@ -1,4 +1,4 @@
-# Greetings! I am Carolyne 👋
+# Greetings! I am Carolyne ![image](https://github.com/user-attachments/assets/c87a2559-69ca-44c5-a8a8-ea7d7afde3cb)
 
 ## About Me 💫
 
