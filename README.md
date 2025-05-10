@@ -7,11 +7,6 @@
 - 📫 Reach me at: **goliascarolyne@gmail.com**
 - ⚡ Fun fact: I love to code, make art and travel / adventure.
 
-<div align="center">
-  
-  **"Creativity is intelligence having fun"** - *Albert Einstein*
-  
-</div>
 
 ## Tech Stack 🛠️
 
